@@ -1,0 +1,29 @@
+#alex_r{
+    width: 1100px;
+    height: 900px;
+    border-style: solid;
+    border-color: darkcyan;
+    border-width: 10px;
+}
+body{
+  background: linear-gradient(to right, #93a5cf,#e4efe9);
+}
+#login_button{
+ background-color:  darkcyan;
+ border-color: darkslategray;
+ border-width: 5px;
+ width: 80%;
+ border-radius: -15px;
+ border-style: solid;
+}
+#email_address{
+    width: 900px;
+
+}
+.header{
+    color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
